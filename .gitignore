@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+
+/debug
+/1337code/Debug
+/.vs
